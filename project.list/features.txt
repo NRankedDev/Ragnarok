@@ -1,0 +1,36 @@
+===================
+| Server Features |
+===================
+BattleGrounds 2.0:
+	with auto-registation (Conquest, Rush, Team DM etc. modes)
+
+Badge system:
+	BG/WoE/PvM consumption for a single type of badges
+
+Guild houses:
+	Private areas for the whole guild
+
+Custom style items:
+	Variuous items from the original and private servers
+
+Analogous RCX:
+	functions integrated in the game client
+
+Ranking system:
+	Extended rankings (WoE/BG/PvP/MvP)
+
+Event system:
+	Auto and manual
+
+Web Vending DataBase:
+	Search vended items comfortably
+
+Custom Main Town:
+	For a good overview and a unique feeling
+
+Custom instances and monsters:
+	For a additional and new gaming experience
+
+New novice training ground:
+	A gorgeous and informacial starting map is the best way to welcome you
+	Also helpful for new Ragnarok Online players

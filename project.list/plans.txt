@@ -1,0 +1,48 @@
+~~~~~~~~~~~~
+| For Kado |
+~~~~~~~~~~~~
+Last Update: 10.05.16 - 11:02PM
+--------------------------------
+
+=====================
+| Client Side Tasks |
+=====================
+• Settuing up a actual and fresh Client
+
+• Clean up the client folder from unnecessary kRO/iRO files
+
+• Creating a new .grf file for the server (without customs or maps etc.)
+
+• Wrtiting a clientinfo.xml
+
+• Find a up to date, stable and working ragexe for the server
+
+• To be continued...
+
+
+=====================
+| Server Side Tasks |
+=====================
+• Setting up MySQL (need phpMyAdmin for easier work)
+
+• Adjusting the simple connection configurations (Pre-Re)
+
+• Configuring the rates
+
+• mmo.h etc... (adjusting Pre-Renewal engine)
+
+• Editing packets_db to engage the client into the server
+
+• Adding Re-Items into Pre-Re Item DB (without overwriting old entries)
+
+• Adding Re-Moba into Pre-Re Mob DB (without overwriting old entries)
+
+• To be continued...
+
+
+=======================
+| Homepage Side Tasks |
+=======================
+• Setting up FluxCP ?
+
+• To be continued...
